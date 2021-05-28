@@ -21,6 +21,6 @@ if not HEROKU:
     API_HASH = "280cfd3515c63a6ba0d3423d4d1b4a3d"
     SUDO_CHAT_ID = -1001485605294
     SUDOERS = [1899168466]
-    ARQ_API_KEY = "Get this from @ARQRobot"
+    ARQ_API_KEY = "ZZLGQK-GZJFQV-EUTCTQ-AFEGMX-ARQ"
 # don't make changes below this line
 ARQ_API = "https://thearq.tech"
